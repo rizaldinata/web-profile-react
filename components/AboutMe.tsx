@@ -1,8 +1,8 @@
 export default function AboutME() {
     return (
-        <section id="tentang" className="bg-white text-gray-800 p-24">
+        <section id="tentang" className="text-black p-24">
             <div className="max-w-3xl mx-auto">
-                <h2 className="text-4xl font-bold text-gray-900 mb-8">
+                <h2 className="text-4xl font-bold text-black mb-8">
                     Tentang saya
                 </h2>
                 <p className="text-lg mb-4">
